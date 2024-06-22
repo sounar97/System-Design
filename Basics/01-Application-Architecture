@@ -1,0 +1,9 @@
+-The Procedureinvlove how an developer deploys the code to server,and where server is directly or indirectly dependent on Storage,whereas server acts 
+as an computer(handling operation as an main guy)
+-The User whereas requests the things from server,while it depends on how many requests are coming in and how the server is handling, to impove server we use 
+ vertical scaling or horizontal scaling process
+-Load Balancer acts as an request handling agent,where it disturbute the requests acoording to traffic
+-Server may interact with mutiple servers externally according to needs
+-Logging will store logs of server(eg:output statemnets of programs)
+-Metrics reads and writes the info on how the server and resources of server are handling and working,it also helps in creating timeseries data with logging
+-Alertz(alerting machine)which alarms the developers with help of matrics data, if any threshold is bypassed
