@@ -1,0 +1,9 @@
+-It's important to analyze and see which components suit better for given system requirements.
+  Those are moving data,storing data and transforming the data.
+-We can change the code for better optimization and efficiency, but we can't do the same with databases or tools we need to migrate if we need to fix or change something
+so it's better to find suitable things at first only for system design requitements
+-Availabitly 
+  uptime always be in alues of 9's and downtime always be the values of 1's
+  SLO and SLA 
+- Reliability is like the probability of system wont fail
+  
