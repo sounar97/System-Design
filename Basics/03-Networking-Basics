@@ -1,1 +1,5 @@
-
+Networking is medium of tranfer of data or requests from one point to another point
+-Each server  of ipv4 have 32bit address and ipv6 have 128bit address max value would be 256
+  Internet have set rulescalled Internet Protocols
+  Data transferred in internet is called Packet, it includes a header file called MetaData where information regarding the data is stored, like postal address details 
+  
