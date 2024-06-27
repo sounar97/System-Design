@@ -1,0 +1,9 @@
+TCP is encapsulated in IP packet TCP/IP
+TCP IS realiable as it ensures even missing packet to be sent, reason because of the 3-way handshake 
+-sync
+-sync,akn
+-akn
+TCP as application level protocol like http,smtp,websockets 
+-UDP(user datagram portocol) it is faster and doesn't have any overhead or perfect order tracking to travel in sequence 
+ -helpful for streaming 
+UDP is also used in DNS
