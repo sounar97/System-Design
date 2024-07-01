@@ -1,0 +1,5 @@
+api-Application program interface
+most popular now is rest,GraphQl,gRPC  
+REST(Representation state transfer) which are built on top of http , it needs to be stateless and works in querys of url,it is most popular and widely used 
+GraphQl built on top of http by meta.inc ,it only uses http POST request , it helps in fetching only things which mentioned in the query , it only as single endpoint 
+gRPC is mainky used by servers , it is faster than REST API's ,needs custom handling for response status 
