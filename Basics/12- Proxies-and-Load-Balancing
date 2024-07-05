@@ -1,1 +1,8 @@
+Two types of proxies - FORWARD AND BACKWARD 
+Forward:The middle layer btwn server and client acts as an proxy in handling the request while hiding the users IP info 
+Reverse :hides the info of server snf handles the request
 
+Load Balncer:is typ pf revrese proxy which distributes the traffic among the servers 
+  It can distribute the requets using round robin or weighted round robin or Least Connection or Location based or Hashing 
+Other types of LB are Layer 4(TCP) and Layer 7(Application)
+It is important to have backup load balancer 
