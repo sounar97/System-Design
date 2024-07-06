@@ -1,0 +1,11 @@
+SQL(Standrand Query Language) is important database langauge which helps in creating in realtional database
+The data structure used is B+ Tree whic helps in minimising the reads and writes of the data 
+All te data are stored in tables with key pairs 
+Primary key is indivual unique key 
+With the help of froeign key we can inter connect another table with suitabel realtionship 
+
+Most of them have ACID prorperties 
+which completes whole process in single go of commited part 
+which ahve durability
+which ensures it happens in correct order(serially)
+which should be consistent 
