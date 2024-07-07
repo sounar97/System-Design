@@ -1,0 +1,6 @@
+NoSQL(Not only)-non relational , can scale into multiple ways 
+store in data strcture like key pairs colection objects (JSON)
+Wide Column -read,flexibilty 
+Graph based- mainly for relations 
+they do not grauntee acid properties which helps in scaling big 
+eventual consistency 
