@@ -1,0 +1,7 @@
+Replicating of compoents 
+which sync between leader adn follower component 
+we can have mutiple leader compoenets whic might be complex ,ut it works independently 
+
+breaking of source compoents into small parts to work effiecntly is called sharding Approaches are Range based (shared key eg:Male/Female)
+where the resources get divided equally 
+should implenet sufficent logic to have realted to another resource
