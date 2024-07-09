@@ -1,1 +1,5 @@
-
+Queuing up the requests incase of heavu traffic during an App event 
+queue is durable as it stores in disk 
+We can either PULL or PUSH the requests 
+Topic stores the requests in the form of sub
+their are many tools to handle those nowdays like kafka, pub/sub 
