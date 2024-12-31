@@ -1,0 +1,7 @@
+clinet to server(request and response method)
+clinet can also be another server using as an api 
+RPC(Remote procedure call) it will create a network call in the server side which are explictly written
+Their are main four methods of the https
+-GET,POST,PUT,DELETE
+WE get response through status codes
+SSL/TLS acts an encryption and decryption 

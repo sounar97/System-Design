@@ -1,0 +1,4 @@
+websockets comes under TCP
+https connection will be upgraded to websocket connection by client side towards server
+-where connection is establised 2 way(i directional)
+ it is fast and real time execution like streaming chat and polling updation

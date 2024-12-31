@@ -1,0 +1,5 @@
+DNS(Domain name system)
+DNS finds teh ip address of the domains needed 
+ICANN is the lookover of all the domain names but resellers sells an maintains those domain 
+Caching helps in not visitng dns record again 
+domain name have TLD,rootname,sub domain name and after (/) it contains the filepath

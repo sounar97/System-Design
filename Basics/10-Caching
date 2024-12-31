@@ -1,0 +1,9 @@
+important topics in all level of softwarre development
+cpu reads faster from cache memory 
+cache control in header helps in minimising the loading, reading from disk is faster than reading from the network 
+cache HIT which gets stored locally ,MISS which check if its still avaiable or missed 
+write-around cache which deals with only primary disk from server 
+write-through cache which writes first to cache memory and then to disk(primary)
+write-back cache which only deals with cache memory 
+Eviction Policy where the memeory is full while requesting the data from the servers decides which part of memory to let go in memeory , which follows FIFO methods
+Alternatively we can LRU AND LFU methods 

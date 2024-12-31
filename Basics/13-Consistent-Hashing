@@ -1,0 +1,5 @@
+Hashing the Load Balancer gives advantage is caching the memorey of client, it acts as an indiviual mapping of the same clients to specified servers
+Consistent hashing is useful when the is cache memory is important in the servers 
+In most of the cases the servers are placed in circular(cycle) way in clockwise  connecting all the servers  
+Need to have optimiziers while having an failure of servers
+Main Compoents of hashing is Hash Key , Hash Function, Nodes(Targets) 

@@ -1,0 +1,4 @@
+C(consistency)A(availabiity)P(partition tolerance) it is important therom in desgining system 
+TO Aapply this most of time replication of resource to be done and mostly used for NoSQL
+We can impliment only 2 ways either CP or AP where P is constant (partition is made)
+

@@ -1,0 +1,6 @@
+how to desgin an api for suitable solution ,only need to worry about surface area like fucntions and methods 
+paramters and versioning matters while desging having back propogation 
+very important in using POST and GET methods
+GET method is only reading and not for creating resources they should be idempotent ,they are usally cached 
+limiting and authenticating should be kept in mind 
+pagination_token 

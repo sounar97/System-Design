@@ -1,0 +1,3 @@
+It is important storage mechanism nowadays not like tradtional databases or filesystem 
+its stores object in flat way 
+wE CAN ONLY READ AND WRITE the data in obejet storage we can't update the data,where every object as unique key like hasmaps 

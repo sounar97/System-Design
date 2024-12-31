@@ -1,0 +1,4 @@
+CDN(Content Delivery Network) which helps in bringing data closer to client from servers 
+we can only put static data (images and videos)in CDN servers , it cant run a code or programs 
+It minimises the dependency of main servers, the cdn's are spread across many places around world , it tries to access the closet cdn near the client ,it acts as an proxy to main server 
+Two types:PUSH and PULL 

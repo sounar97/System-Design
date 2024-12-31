@@ -1,0 +1,13 @@
+-It's important to analyze and see which components suit better for given system requirements.
+  Those are moving data,storing data and transforming the data.
+-We can change the code for better optimization and efficiency, but we can't do the same with databases or tools we need to migrate if we need to fix or change something
+so it's better to find suitable things at first only for system design requitements
+-Availabity 
+  uptime always be in alues of 9's and downtime always be the values of 1's
+  SLO and SLA 
+  By vertical scaling of server we can increase the availabity
+- Reliability is like the probability of system wont fail
+-Fault Tolerance is like even if one resource is not working another resource will work in that place in case of failure 
+-Redundancy is like having backup of a resource incase of emergency 
+-Through Put is amount of requests we can handle in certain period of time (request/second)(queries/second in databases) an many another dataforms
+-Latency is the amount of time it reuqires to complete the operation or request, one of the way to improve latency is to use CDN

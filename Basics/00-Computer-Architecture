@@ -1,0 +1,6 @@
+- Disk is import thing which is used for storage, nowadays SSD is more used compared to HDD,it is independent in nature , it works in milliseconds(10^-3)
+- RAM for accessing memory, works more faster ,typically works in microseconds(10^-6)
+-CPU the brain of the computer,which helps in handling all the tasks(reading and writing in storages)and computing 
+-Cache memory(smallest in size but fastest than all) resides inside CPU,works in nanoseconds(10^-9), used substitution for RAM
+- RAM AND Cache holds tempory storage
+- This 4 are main blocks of System
